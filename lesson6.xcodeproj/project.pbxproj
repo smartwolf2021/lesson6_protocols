@@ -24,6 +24,7 @@
 		C9C745FE27762CDB0027111E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9C7460127762CDB0027111E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9C7460327762CDB0027111E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9C7460927762CE70027111E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				C9C745FE27762CDB0027111E /* Assets.xcassets */,
 				C9C7460027762CDB0027111E /* LaunchScreen.storyboard */,
 				C9C7460327762CDB0027111E /* Info.plist */,
+				C9C7460927762CE70027111E /* MyPlayground.playground */,
 			);
 			path = lesson6;
 			sourceTree = "<group>";
